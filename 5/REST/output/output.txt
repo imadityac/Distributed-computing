@@ -1,0 +1,16 @@
+ant -f "C:\\Users\\popighikhgjkhnc xggf\\Documents\\NetBeansProjects\\CustomerDB" -Dnb.internal.action.name=run -Ddirectory.deployment.supported=true -DforceRedeploy=false -Dnb.wait.for.caches=true "-Dbrowser.context=C:\\Users\\popighikhgjkhnc xggf\\Documents\\NetBeansProjects\\CustomerDB" run
+init:
+deps-module-jar:
+deps-ear-jar:
+deps-jar:
+library-inclusion-in-archive:
+library-inclusion-in-manifest:
+compile:
+compile-jsps:
+Incrementally deploying CustomerDB
+Completed incremental distribution of CustomerDB
+run-deploy:
+Browsing: http://localhost:8080/CustomerDB
+run-display-browser:
+run:
+BUILD SUCCESSFUL (total time: 0 seconds)

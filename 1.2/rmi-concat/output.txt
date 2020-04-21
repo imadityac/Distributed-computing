@@ -1,0 +1,29 @@
+/*
+	Name:		Aditya Choudhari
+	Roll No.:	45009
+	Assignment:	1.2
+	
+	To develop any distributed application through implementing client-server communication programs
+	based on java sockets and RMI techniques.
+*/
+
+/*
+
+				++OUTPUT++
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-concat$ java Client 127.0.0.1 Hello World
+The first string is: Hello
+The second string is: World
+The concatenation is: HelloWorld
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-concat$ java Client 127.0.0.1 PES MCOE
+The first string is: PES
+The second string is: MCOE
+The concatenation is: PESMCOE
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-concat$ java Client 127.0.0.1 Aditya Choudhari
+The first string is: Aditya
+The second string is: Choudhari
+The concatenation is: AdityaChoudhari
+
+*/

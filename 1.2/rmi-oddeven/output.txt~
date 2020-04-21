@@ -1,0 +1,30 @@
+/*
+	Name:		Sahil Koditkar
+	Roll No.:	45035
+	Assignment:	1.2
+	
+	To develop any distributed application through implementing client-server communication programs
+	based on java sockets and RMI techniques.
+*/
+
+/*
+
+				++OUTPUT++
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-oddeven$ java Client 127.0.0.1 5
+The Number is: 5
+The Number is : Odd
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-oddeven$ java Client 127.0.0.1 6
+The Number is: 6
+The Number is : Even
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-oddeven$ java Client 127.0.0.1 123
+The Number is: 123
+The Number is : Odd
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-oddeven$ java Client 127.0.0.1 986
+The Number is: 986
+The Number is : Even
+
+*/

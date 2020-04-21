@@ -1,0 +1,31 @@
+/*
+	Name:		Aditya Choudhari
+	Roll No.:	45009
+	Assignment:	1.2
+	
+	To develop any distributed application through implementing client-server communication programs
+	based on java sockets and RMI techniques.
+*/
+
+/*
+
+				++OUTPUT++
+
+	administrator@it-nl-pc14:~/Downloads/RMI/rmi-strrev$ java Client 127.0.0.1 strrev
+	The string is: strrev
+	The Reverse String is : verrts
+	
+	administrator@it-nl-pc14:~/Downloads/RMI/rmi-strrev$ java Client 127.0.0.1 enuP
+	The string is: enuP
+	The Reverse String is : Pune
+	
+	administrator@it-nl-pc14:~/Downloads/RMI/rmi-strrev$ java Client 127.0.0.1 admin
+	The string is: admin
+	The Reverse String is : nimda
+	
+	administrator@it-nl-pc14:~/Downloads/RMI/rmi-strrev$ java Client 127.0.0.1 jahaj
+	The string is: jahaj
+	The Reverse String is : jahaj
+
+
+*/

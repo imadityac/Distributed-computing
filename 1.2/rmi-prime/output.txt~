@@ -1,0 +1,31 @@
+/*
+	Name:		Aditya Choudhari
+	Roll No.:	45035
+    Assignment:	1.2
+	
+	To develop any distributed application through implementing client-server communication programs
+	based on java sockets and RMI techniques.
+*/
+
+/*
+
+				++OUTPUT++
+
+	administrator@it-nl-pc14:~/Downloads/RMI/rmi-prime$ java Client 127.0.0.1 123
+	The string is: 123
+	The number is Prime: False
+
+	administrator@it-nl-pc14:~/Downloads/RMI/rmi-prime$ java Client 127.0.0.1 121
+	The string is: 121
+	The number is Prime: False
+
+	administrator@it-nl-pc14:~/Downloads/RMI/rmi-prime$ java Client 127.0.0.1 127
+	The string is: 127
+	The number is Prime: True
+
+	administrator@it-nl-pc14:~/Downloads/RMI/rmi-prime$ java Client 127.0.0.1 53
+	The string is: 53
+	The number is Prime: True
+
+
+*/

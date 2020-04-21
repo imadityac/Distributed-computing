@@ -1,0 +1,34 @@
+/*
+	Name:		Aditya Choudhari 
+	Roll No.:	45009
+	Assignment:	1.2
+	
+	To develop any distributed application through implementing client-server communication programs 
+	based on java sockets and RMI techniques.
+*/
+	 
+/*
+
+				++OUTPUT++
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-arithmetic$ java Client 127.0.0.1 6 4 Add
+The first number is: 6
+The second number is: 4
+The sum is: 10.0
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-arithmetic$ java Client 127.0.0.1 6 4 Subtract
+The first number is: 6
+The second number is: 4
+The sub is: 2.0
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-arithmetic$ java Client 127.0.0.1 6 4 Multiply
+The first number is: 6
+The second number is: 4
+The multiplication is: 24.0
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-arithmetic$ java Client 127.0.0.1 6 4 Divide
+The first number is: 6
+The second number is: 4
+The division is: 1.5
+
+*/

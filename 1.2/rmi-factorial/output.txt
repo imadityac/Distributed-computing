@@ -1,0 +1,32 @@
+/*
+	Name:		Aditya Choudhari    
+	Roll No.:	45009
+	Assignment:	1.2
+	
+	To develop any distributed application through implementing client-server communication programs
+	based on java sockets and RMI techniques.
+*/
+
+/*
+
+				++OUTPUT++
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-factorial$ java Client 127.0.0.1 5 Factorial
+
+	The number is: 5
+
+	The Factorial of 5 is: 120.0
+	
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-factorial$ java Client 127.0.0.1 9 Factorial
+
+	The number is: 9
+
+	The Factorial of 9 is: 362880.0
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-factorial$ java Client 127.0.0.1 0 Factorial
+
+	The number is: 0
+
+	The Factorial of 0 is: 1.0
+
+*/

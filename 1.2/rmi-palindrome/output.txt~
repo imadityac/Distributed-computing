@@ -1,0 +1,31 @@
+/*
+	Name:		Aditya Choudhari
+	Roll No.:	45035
+	Assignment:	1.2
+	
+	To develop any distributed application through implementing client-server communication programs
+	based on java sockets and RMI techniques.
+*/
+
+/*
+
+				++OUTPUT++
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-palindrome$ java Client 127.0.0.1 Hello
+The string is: Hello
+The String is Palindrome: False
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-palindrome$ java Client 127.0.0.1 121
+The string is: 121
+The String is Palindrome: True
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-palindrome$ java Client 127.0.0.1 LOL
+The string is: LOL
+The String is Palindrome: True
+
+administrator@it-nl-pc14:~/Downloads/RMI/rmi-palindrome$ java Client 127.0.0.1 aditya
+The string is: aditya
+The String is Palindrome: False
+
+
+*/
